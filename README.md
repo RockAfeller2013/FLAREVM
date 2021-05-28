@@ -1,5 +1,3 @@
-# FLAREVM
-
 ##---------------------------------------------------------------------------------------------------
 # Microsoft Windows Images - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 # Windows 10 Base Image
