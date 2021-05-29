@@ -9,6 +9,7 @@
 # https://cutter.re/
 # https://www.varonis.com/blog/malware-analysis-tools/
 # https://bakerstreetforensics.com/2021/05/26/adding-sift-and-remnux-to-your-windows-forensics-environment/
+# https://github.com/swisscom/Invoke-Forensics
 ##---------------------------------------------------------------------------------------------------
 # Install Tools
 # VMware Tools 
